@@ -1,5 +1,11 @@
 # Assignment
 
+## Up & Running
+Steps to get this project running for you locally below:
+1. git clone this repo.
+2. npm install from the root directory using a terminal
+3. npm start to run the web server at localhost:3000.
+
 ## Objectives
 
 By the end of this project you will:
